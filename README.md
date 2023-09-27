@@ -1,4 +1,4 @@
-# LatheToolWearClassification
+# LatheKnifeWearClassification
 
 ## Table of contents
 * [General info](#general-info)
