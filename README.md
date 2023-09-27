@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is using kaggle dataset to create a classifier model. The model then assigns a label that depends on the wear of the knife in a cnc machine. 
+This project is using kaggle dataset to create a classifier model. The model then assigns a label that depends on the wear of the knife in a cnc lathe. 
 	
 ## Technologies
 Project is created with:
