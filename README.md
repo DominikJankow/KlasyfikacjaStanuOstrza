@@ -12,7 +12,7 @@ This project is using kaggle dataset (https://www.kaggle.com/datasets/adorigueto
  
 ## Technologies
 Project is created with:
-Jupyter Notebook
+Jupyter Notebook , Python
 
 ## Setup
 To run this project, install it locally and open using Jupyter or open it on your browser using Google collaboratory.
