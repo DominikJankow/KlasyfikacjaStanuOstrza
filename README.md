@@ -17,3 +17,5 @@ Jupyter Notebook
 ## Setup
 To run this project, install it locally and open using Jupyter or open it on your browser using Google collaboratory.
 
+## TL;DR
+Based on the findings of this project we can accurately classify the wear of a lathe knife based on the forces measured by a dynamometer situated behind the knife. To make the model more robust and precise more data should be gathered and tested on. Another important feature that could be added to make it better would be to gather test results from experiments using different knives and different steel grades.
